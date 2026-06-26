@@ -5,4 +5,4 @@ All my Solar Engine scripts are here, including the ones that are not on the mai
 
 made by **ymrgame2009**
 
-you can found scripts in `.solar-engine/Scripts/here`
+you can found scripts in `solar-engine-main/Scripts/`
