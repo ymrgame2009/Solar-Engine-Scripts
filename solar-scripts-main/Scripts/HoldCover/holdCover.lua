@@ -1,6 +1,8 @@
 -- ╔══════════════════════════════════════════════════════╗
 -- ║   V-Slice Hold Cover — Auto RGB / Multi-Color        ║
--- ║   Solar Engine / Psych Engine 0.6.3  [FINAL]         ║
+-- ║   Psych Engine 0.6.3  [FIXED v5]                     ║
+-- ║   Solar Engine 0.6.X — Universe Engine 0.5.5	      ║
+-- ║   By Mr YMR (@ymrgame2009)				              ║
 -- ╚══════════════════════════════════════════════════════╝
 
 local colorNames   = {'Purple', 'Blue', 'Green', 'Red'}
